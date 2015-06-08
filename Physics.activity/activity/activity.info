@@ -11,6 +11,7 @@ category = science game art
 
 
 # Added fields
+license=gpl3
 activity_type = gtk3
 homepage = http://wiki.sugarlabs.org/go/Activities/Physics
 long_description: Sugar Learning Platform - physics activity
